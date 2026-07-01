@@ -1,5 +1,5 @@
 # Key-Characteristics-Driving-Quality-Contact
-I used Statcast and Bat Tracking data to create a coorelation analysis and regression models that show which metrics are most closely associated with improving a hitters xwOBA.
+I used Statcast and Bat Tracking data to create a correlation analysis and regression models that show which metrics are most closely associated with improving a hitters xwOBA.
 For the past couple of weeks I have been working on building this baseball analytics project using MLB Statcast and bat tracking data.
 
 My Research Question: Which swing characteristics are most strongly associated with a hitter's offensive quality (xwOBA)?
