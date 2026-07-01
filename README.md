@@ -11,3 +11,4 @@ I used data from every qualified hitter in the MLB in 2026 and I found that:
 -I also explored how to apply these metrics in real life situations using examples
 
 This project has helped strengthen my coding and player analysis skills and I look forward to making more projects in the future! I am always looking for feedback and ways to improve so let me know if you have any advice!
+Tools Used: R SQL Baseball Savant FanGraphs Baseball Reference Visual Studio Code Gemini
